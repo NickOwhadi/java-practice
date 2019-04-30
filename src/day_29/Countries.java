@@ -5,6 +5,7 @@ import java.util.Arrays;
 public class Countries {
 
 	public static void main(String[] args) {
+		//test
 		// TODO Auto-generated method stub
 		String[][] countriesArray = { { "USA", "Washington DC" }, { "Canada", "Ottawa" }, { "Mexico", "Mexico city" },
 				{ "Brasil", "Brasilia" }, { "Peru", "Lima" }, { "Argentina", "Boanes Aeros" }, { "Bolivia", "La Paz" },
